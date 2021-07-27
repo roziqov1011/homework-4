@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+ul li{
+  display: inline-block;
+}
+.buyurtma{
+border: 1px black solid;
+background-color: chartreuse;
+color: white;
+width: 200px;
+font-size: 30px;
+border-radius: 10px;
+list-style: none;
+}
+.bekor_qilish{
+  border: 1px black solid;
+  background-color: tomato;
+  color: white;
+  width: 200px;
+  font-size: 30px;
+  border-radius: 10px;
+  list-style: none;
+  }
+  a{
+    text-decoration: none;
+    border: 2px black solid;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+  }

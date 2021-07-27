@@ -1,0 +1,29 @@
+
+
+body{
+  text-align: center;
+}
+hr{
+  width: 50px;
+}
+ul li{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  border: 1px black solid;
+  border-radius: 5px;
+}
+ul li img{
+  width: 100px;
+  height: 100px;
+}
+h3{
+  color: rgb(13, 125, 230);
+  text-align: center;
+}
+h3 a{
+  text-decoration: none;
+  border: 1px rgb(10, 147, 238) solid;
+  border-radius: 20px;
+  background-color: rgb(18, 172, 56);
+}

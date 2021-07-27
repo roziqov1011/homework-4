@@ -1,0 +1,17 @@
+body{
+  background-color:darkolivegreen;
+}
+ul{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  border: 2px black solid;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+}

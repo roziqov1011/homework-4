@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(49, 58, 58);
+}
+
+ul {
+  background-color: #CD9B3A;
+  list-style: none;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.asosiy {
+  text-decoration: none;
+  border: 2px black solid;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.blok {
+  width: 1300px;
+
+}
+
+.blok li {
+  display: inline-block;
+
+}
+
+ul li img {
+  width: 500px;
+}
+
+ul li p {
+  width: 330px;
+}
